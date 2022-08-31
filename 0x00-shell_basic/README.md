@@ -1,1 +1,1 @@
-0. Where am I?
+script that prints the absolute path name of the current working dirextory
