@@ -1,2 +1,2 @@
-script: #!/bin/bash
-chmod a+x */
+#!/bin/bash
+chmod -R a+X .
