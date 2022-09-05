@@ -1,1 +1,1 @@
-Display the content
+Display etc/passwd
