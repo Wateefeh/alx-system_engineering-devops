@@ -1,1 +1,1 @@
-Display etc/passwd
+Display the contents ofy /etc/passwd
