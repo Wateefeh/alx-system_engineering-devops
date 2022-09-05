@@ -1,1 +1,1 @@
-script that displays confused similey
+script that displays a confused smiley
