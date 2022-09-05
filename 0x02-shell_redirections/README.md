@@ -1,1 +1,1 @@
-A script that duplicates the last line of the file
+A script that deletes all regular files
