@@ -1,1 +1,1 @@
-Displays the third line
+Display the content
