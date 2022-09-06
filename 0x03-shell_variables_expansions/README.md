@@ -1,1 +1,1 @@
-Write a shell script that adds the two numbers stored in the environment variables
+should be the last directory the shell looks into when looking for a program.
